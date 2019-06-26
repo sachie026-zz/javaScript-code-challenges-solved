@@ -4,9 +4,10 @@
 // 0 represents a car traveling east,
 // 1 represents a car traveling west.
 
+// Time complexity :  o(n)
 
 function solution(A) {
-	
+
     var passCount = 0;
     var len = A.length;
     
